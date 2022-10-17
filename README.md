@@ -5,7 +5,7 @@
 - [Questions](questions.pdf)
 - [Scores](scores.pdf)
 
-Objects:
+## Objects:
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Objects:
     <td><img src="Objects/Drinks_IceTea.jpg" width="50%"/>Ice Tea</td>
     <td></td>
     <td><img src="Objects/PantryItems_TomatoSauce.jpg" width="50%"/>Tomato Sauce</td>
-    <td><img src="Objects/Fruits_Kiwi.jpg" width="50%"/>Strawberry</td>
+    <td><img src="Objects/Fruits_Kiwi.jpg" width="50%"/>Kiwi</td>
     <td></td>
     <td><img src="Objects/Cutlery.jpg" width="50%"/>Plate</td>
   </tr>
@@ -67,7 +67,7 @@ Objects:
 </table>
 
 
-Others Objects:
+## Others Objects:
 
 <table>
   <tr>
@@ -77,13 +77,19 @@ Others Objects:
 <table>
 
 
-Arena layout:
-<img src="Arena/LARC_@home_2022_furniture.png" width="50%"/>
+## Arena layout:
 
+<table>
+  <tr>
+    <td><img src="Arena/LARC_@home_2022_furniture.png" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_1.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_2.jpg" /></td>
+  </tr>
+    <tr>
+    <td><img src="Arena/LARC_@home_2022_furniture_3.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_4.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_5.jpg" /></td>
+  </tr>
 
-Arena Images:
-<img src="LARC_@home_2022_furniture_1.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_2.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_3.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_4.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_5.jpg" width="50%"/>
+<table>
+
