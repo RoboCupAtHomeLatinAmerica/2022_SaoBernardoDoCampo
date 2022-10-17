@@ -28,7 +28,7 @@
     <td><img src="Objects/Drinks_Coke.jpg" width="50%"/>Coke</td>
     <td><img src="Objects/CleaningSupplies_Cloth.jpg" width="50%"/>Cloth</td>
     <td><img src="Objects/PantryItems_EnglishSauce.jpg" width="50%"/>English Sauce</td>
-    <td><img src="Objects/Fruits_Banana.jpg" width="50%"/>Orange</td>
+    <td><img src="Objects/Fruits_Banana.jpg" width="50%"/>Banana</td>
     <td><img src="Objects/Snacks_Pringles.jpg" width="50%"/>Pringles</td>
     <td><img src="Objects/Cutlery.jpg" width="50%"/>Fork</td>
   </tr>
@@ -36,7 +36,7 @@
     <td><img src="Objects/Drinks_Guarana.jpg" width="50%"/>Guarana</td>
     <td><img src="Objects/CleaningSupplies_Sponge.jpg" width="50%"/>Sponge</td>
     <td><img src="Objects/PantryItems_Mustard.jpg" width="50%"/>Mustard</td>
-    <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Banana</td>
+    <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Orange</td>
     <td></td>
     <td><img src="Objects/Cutlery.jpg" width="50%"/>Knife</td>
   </tr>
