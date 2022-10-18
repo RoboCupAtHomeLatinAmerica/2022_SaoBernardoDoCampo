@@ -38,7 +38,7 @@
     <td><img src="Objects/PantryItems_Mustard.jpg" width="50%"/>Mustard</td>
     <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Orange</td>
     <td></td>
-    <td><img src="Objects/Cutlery_Knife.jpg" width="50%"/>Knife</td>
+    <td><img src="Objects/Cutlery_knife.jpg" width="50%"/>Knife</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_IceTea.jpg" width="50%"/>Ice Tea</td>
