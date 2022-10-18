@@ -30,7 +30,7 @@ Objects:
     <td><img src="Objects/PantryItems_EnglishSauce.jpg" width="50%"/>English Sauce</td>
     <td><img src="Objects/Fruits_Banana.jpg" width="50%"/>Orange</td>
     <td><img src="Objects/Snacks_Pringles.jpg" width="50%"/>Pringles</td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Fork</td>
+    <td><img src="Objects/Cutlery_Fork.jpg" width="50%"/>Fork</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_Guarana.jpg" width="50%"/>Guarana</td>
@@ -38,7 +38,7 @@ Objects:
     <td><img src="Objects/PantryItems_Mustard.jpg" width="50%"/>Mustard</td>
     <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Banana</td>
     <td></td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Knife</td>
+    <td><img src="Objects/Cutlery_Knife.jpg" width="50%"/>Knife</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_IceTea.jpg" width="50%"/>Ice Tea</td>
@@ -72,6 +72,7 @@ Others Objects:
 <table>
   <tr>
     <td><img src="Objects/Bag.jpg" width="50%"/>Bag</td>
+    <td><img src="Objects/Garbage.jpg" width="50%"/>Garbage</td>
     <td><img src="Objects/GarbageLid.jpg" width="50%"/>Garbage Lid</td>
   </tr>
 <table>
