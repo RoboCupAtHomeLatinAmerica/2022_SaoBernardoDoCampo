@@ -5,7 +5,7 @@
 - [Questions](questions.pdf)
 - [Scores](scores.pdf)
 
-Objects:
+## Objects:
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Objects:
     <td><img src="Objects/Drinks_Coke.jpg" width="50%"/>Coke</td>
     <td><img src="Objects/CleaningSupplies_Cloth.jpg" width="50%"/>Cloth</td>
     <td><img src="Objects/PantryItems_EnglishSauce.jpg" width="50%"/>English Sauce</td>
-    <td><img src="Objects/Fruits_Banana.jpg" width="50%"/>Orange</td>
+    <td><img src="Objects/Fruits_Banana.jpg" width="50%"/>Banana</td>
     <td><img src="Objects/Snacks_Pringles.jpg" width="50%"/>Pringles</td>
     <td><img src="Objects/Cutlery_Fork.jpg" width="50%"/>Fork</td>
   </tr>
@@ -36,7 +36,7 @@ Objects:
     <td><img src="Objects/Drinks_Guarana.jpg" width="50%"/>Guarana</td>
     <td><img src="Objects/CleaningSupplies_Sponge.jpg" width="50%"/>Sponge</td>
     <td><img src="Objects/PantryItems_Mustard.jpg" width="50%"/>Mustard</td>
-    <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Banana</td>
+    <td><img src="Objects/Fruits_Orange.jpg" width="50%"/>Orange</td>
     <td></td>
     <td><img src="Objects/Cutlery_Knife.jpg" width="50%"/>Knife</td>
   </tr>
@@ -44,7 +44,7 @@ Objects:
     <td><img src="Objects/Drinks_IceTea.jpg" width="50%"/>Ice Tea</td>
     <td></td>
     <td><img src="Objects/PantryItems_TomatoSauce.jpg" width="50%"/>Tomato Sauce</td>
-    <td><img src="Objects/Fruits_Kiwi.jpg" width="50%"/>Strawberry</td>
+    <td><img src="Objects/Fruits_Kiwi.jpg" width="50%"/>Kiwi</td>
     <td></td>
     <td><img src="Objects/Cutlery.jpg" width="50%"/>Plate</td>
   </tr>
@@ -67,7 +67,7 @@ Objects:
 </table>
 
 
-Others Objects:
+## Others Objects:
 
 <table>
   <tr>
@@ -78,13 +78,19 @@ Others Objects:
 <table>
 
 
-Arena layout:
-<img src="Arena/LARC_@home_2022_furniture.png" width="50%"/>
+## Arena layout:
 
+<table>
+  <tr>
+    <td><img src="Arena/LARC_@home_2022_furniture.png" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_1.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_2.jpg" /></td>
+  </tr>
+    <tr>
+    <td><img src="Arena/LARC_@home_2022_furniture_3.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_4.jpg" /></td>
+    <td><img src="Arena/LARC_@home_2022_furniture_5.jpg" /></td>
+  </tr>
 
-Arena Images:
-<img src="LARC_@home_2022_furniture_1.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_2.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_3.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_4.jpg" width="50%"/>
-<img src="LARC_@home_2022_furniture_5.jpg" width="50%"/>
+<table>
+
