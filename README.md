@@ -22,7 +22,7 @@
     <td><img src="Objects/PantryItems_CornFlakes.jpg" width="50%"/>Corn Flakes</td>
     <td><img src="Objects/Fruits_Apple.jpg" width="50%"/>Apple</td>
     <td><img src="Objects/Snacks_Cookie.jpg" width="50%"/>Cookie</td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Spoon</td>
+    <td><img src="Objects/Cutlery_Spoon.jpg" width="50%"/>Spoon</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_Coke.jpg" width="50%"/>Coke</td>
@@ -46,7 +46,7 @@
     <td><img src="Objects/PantryItems_TomatoSauce.jpg" width="50%"/>Tomato Sauce</td>
     <td><img src="Objects/Fruits_Kiwi.jpg" width="50%"/>Kiwi</td>
     <td></td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Plate</td>
+    <td><img src="Objects/Cutlery_Plate.jpg" width="50%"/>Plate</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_Tonic.jpg" width="50%"/>Tonic</td>
@@ -62,7 +62,7 @@
     <td><img src="Objects/PantryItems_CornFlakes.jpg" width="50%"/>Corn Flakes</td>
     <td></td>
     <td></td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Mug</td>
+    <td><img src="Objects/Cutlery_Mug.jpg" width="50%"/>Mug</td>
   </tr>
 </table>
 
