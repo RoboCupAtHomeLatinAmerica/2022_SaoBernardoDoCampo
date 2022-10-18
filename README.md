@@ -73,7 +73,8 @@
   <tr>
     <td><img src="Objects/Bag.jpg" width="50%"/><br>Bag</td>
     <td><img src="Objects/Garbage.jpg" width="50%"/><br>Garbage</td>
-    <td><img src="Objects/GarbageLid.jpg" width="50%"/><br>Garbage Lid</td>
+    <td><img src="Objects/Garbage_Lid.jpg" width="50%"/><br>Garbage Lid</td>
+    <td><img src="Objects/Garbage.jpg" width="50%"/><br>Garbage</td>
   </tr>
 <table>
 
