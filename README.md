@@ -54,7 +54,7 @@
     <td><img src="Objects/PantryItems_TunaCan.jpg" width="50%"/>Tuna Can</td>
     <td></td>
     <td></td>
-    <td><img src="Objects/Cutlery.jpg" width="50%"/>Bowl</td>
+    <td><img src="Objects/Cutlery_Bowl.jpg" width="50%"/>Bowl</td>
   </tr>
   <tr>
     <td><img src="Objects/Drinks_Water.jpg" width="50%"/>Water</td>
