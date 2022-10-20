@@ -98,17 +98,17 @@
 
 <table>
   <tr>
-    <td><img src="Arena/LARC_@home 2022_Inspection.png" /><br>Inspection</td>
+    <td><img src="Arena/LARC_@home_2022_Inspection.png" /><br>Inspection</td>
   </tr>
   <tr>
-    <td><img src="Arena/LARC_@home_2022_speech.jpg" /><br>Speech recognition</td>
-    <td><img src="Arena/LARC_@home_2022_objects.jpg" /><br>Manipulation and object recognition</td>
-    <td><img src="Arena/LARC_@home_2022_people.jpg" /><br>People recognition</td>
-    <td><img src="Arena/LARC_@home_2022_navigation.jpg" /><br>Navigation and follow</td>
+    <td><img src="Arena/LARC_@home_2022_speech.png" /><br>Speech recognition</td>
+    <td><img src="Arena/LARC_@home_2022_objects.png" /><br>Manipulation and object recognition</td>
+    <td><img src="Arena/LARC_@home_2022_people.png" /><br>People recognition</td>
+    <td><img src="Arena/LARC_@home_2022_navigation.png" /><br>Navigation and follow</td>
   </tr>
   <tr>
-    <td><img src="Arena/LARC_@home_2022_cleanup.jpg" /><br>Clean up</td>
-    <td><img src="Arena/LARC_@home_2022_garbage.jpg" /><br>Garbage</td>
+    <td><img src="Arena/LARC_@home_2022_cleanup.png" /><br>Clean up</td>
+    <td><img src="Arena/LARC_@home_2022_garbage.png" /><br>Garbage</td>
   </tr>
 
 <table>
