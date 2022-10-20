@@ -1,4 +1,4 @@
-# Robocup@HOME - Latin America - 2022 - São Bernardo Do Campo
+# Robocup@HOME - Brazil - 2022 - São Bernardo Do Campo
 
 - [Schedule](schedule.pdf)
 - [Names](name.pdf)
